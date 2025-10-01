@@ -2,6 +2,6 @@ package pt.pa.adts;
 
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    Ssystem.out.println("Hello world!");
   }
 }
